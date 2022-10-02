@@ -1,0 +1,65 @@
+body{
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif  ;
+	font-size: 18px;
+	color: #2D3748;
+}
+
+/*Header position*/
+.header{
+    flex: 1 0 50%;
+    text-align: center;
+    padding: 15px;
+    background: #63B3ED;
+    color: #FFFFFF;
+}
+
+h1{
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 36px;
+}
+
+/*HEADER PICTURE*/
+.selfie{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+}
+
+/*Article heading*/
+h2{
+	font-size: 32px;
+	color:#48BB78 ;
+}
+
+/*Date and Author of the blog post*/
+.date-author{
+	color: #718096;
+}
+
+.article1-image{
+	width: 250px;
+	height: 250px;
+	float: right;
+}
+
+.article2-image{
+	width: 250px;
+	height: 250px;
+	float: left;
+}
+
+/*About heading*/
+.about-heading{
+	color: #000000;
+	font-family: Georgia,'Times New Roman', Times, serif;
+}
+
+.about{
+	background-color: #E2E8F0;
+}
+
+/*Social media and archives headings*/
+.social-archive{
+	color: #48BB78;
+	font-family: Georgia,'Times New Roman', Times, serif;
+}
